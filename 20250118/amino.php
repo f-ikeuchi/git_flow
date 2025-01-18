@@ -5,6 +5,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>２回目</h1>
+    <h1>２回目です</h1>
 </body>
 </html>
